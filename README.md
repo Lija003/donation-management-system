@@ -24,7 +24,8 @@ The pile will store the following information for each users-
 	Support for multiple users.
 	Have an extra layer of security.
 Conclusion:- This project documentation has described the requirements, design, implementation, and testing of a loan management system. The system will be a valuable asset to the common people for its simple process and security features.
-here some screenshorts after running the program 
+here some screenshorts after running the program:
+
 <img width="361" alt="ss1" src="https://github.com/Lija003/donation-management-system/assets/148467286/32dff6ec-98c6-4019-8130-1ed478ba10a6">
 <img width="382" alt="ss2" src="https://github.com/Lija003/donation-management-system/assets/148467286/9423d633-58bb-420b-af1d-2287587bbe78">
 
